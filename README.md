@@ -3,4 +3,5 @@ Site e commerce, foi um projeto realizado durante o curso de Wordpress feito pel
 
 Site - https://dev-raffnbsampa.pantheonsite.io/
 
-![image](https://user-images.githubusercontent.com/92860308/212985912-59e62dd2-63e4-4564-854f-9b5f4fab429a.png)
+
+![dddddd](https://user-images.githubusercontent.com/92860308/212986541-3e2df03a-08f4-45f6-87f8-31e7ea713906.png)
